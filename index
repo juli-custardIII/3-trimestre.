@@ -1,0 +1,20 @@
+!DOCTYPE html
+html lang=pt-br
+head
+meta charset=UTF-8 /
+meta name=viewport content=width=device-width, initial-scale=1.0; /
+titleMeus objetivos do ano/title
+link rel=stylesheet href=style.css /
+/head
+body
+section class=conteudo-principal
+h2 class=titulo-principalMeus Objetivos do anospan_/span/h2
+div class=botoes
+button class=botaoCursos na Alura/button
+button class=botaoCriar projetos em Javascript/button
+button class=botaoCriar um portfolio/button
+button class=botaoAtualizar meu curriculo/button
+/div
+/section
+/body
+/html
